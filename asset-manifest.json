@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/Authorization-client/static/js/main.09f08032.js",
+    "main.js": "/Authorization-client/static/js/main.d6ffe1df.js",
     "index.html": "/Authorization-client/index.html",
-    "main.09f08032.js.map": "/Authorization-client/static/js/main.09f08032.js.map"
+    "main.d6ffe1df.js.map": "/Authorization-client/static/js/main.d6ffe1df.js.map"
   },
   "entrypoints": [
-    "static/js/main.09f08032.js"
+    "static/js/main.d6ffe1df.js"
   ]
 }
